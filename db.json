@@ -1,51 +1,51 @@
 { "videos":[
     {
         "id": 1,
-        "titulo": "Green Day - Boulevard Of Broken Dreams",
-        "categoria": "Punk Rock",
-        "imagen":"https://dojiw2m9tvv09.cloudfront.net/36300/product/X_greenday24121.jpg?29&time=1735590207",
-        "video": "https://www.youtube.com/watch?v=Soa3gO7tL-c",
-        "descripcion": "Watch the official music video for Boulevard Of Broken Dreams by Green Day from the album American Idiot. "
+        "titulo": "Cuándo usar let, var y const?",
+        "categoria": "Front End",
+        "imagen":"",
+        "video": "https://www.youtube.com/watch?v=PztCEdIJITY&t=334s",
+        "descripcion": "¿A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript."
     },
     {
         "id": 2,
-        "titulo": "Green Day - Basket Case",
-        "categoria": "Punk Rock",
-        "imagen":"https://www.efeeme.com/wp-content/uploads/green-day-16-04-14-b.jpg",
-        "video": "https://www.youtube.com/watch?v=NUTGr5t3MoY",
-        "descripcion": "Watch the official music video for Basket Case by Green Day from the album Dookie."
+        "titulo": "¿Qué es JavaScript?",
+        "categoria": "Front End",
+        "imagen":"",
+        "video": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
+        "descripcion": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips."
     },
     {
         "id": 3,
-        "titulo": "Avril Lavigne - Complicated ",
-        "categoria": "Rock",
-        "imagen":"https://i1.sndcdn.com/artworks-quv3eGT2hz2UCZjn-xlT8Nw-t500x500.jpg",
-        "video": "https://www.youtube.com/watch?v=5NPBIwQyPWE",
-        "descripcion": "Watch the official HD Video for Complicated by Avril Lavigne"
+        "titulo": "Spring Framework. ¿Qué es ?",
+        "categoria": "Back End",
+        "imagen":"",
+        "video": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
+        "descripcion": "¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java. Nos ofrece herramientas que nos permiten crear proyectos más avanzados, con mejores prácticas y en menor tiempo. También posee una gran comunidad, lo que nos brinda muchísima documentación y ayuda."
     },
     {
         "id": 4,
-        "titulo": "Avril Lavigne - Sk8er Boi",
-        "categoria": "Rock",
-        "imagen":"https://upload.wikimedia.org/wikipedia/en/b/b4/Sk8er_boi_cover.jpg",
-        "video": "https://www.youtube.com/watch?v=TIy3n2b7V9k",
-        "descripcion": "Watch the official video for Sk8er Boi by Avril Lavigne "
+        "titulo": "¿Qué es SQL y NoSQL?",
+        "categoria": "Back End",
+        "imagen":"",
+        "video": "https://www.youtube.com/watch?v=cLLKVd5CNLc",
+        "descripcion": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo."
     },
     {
         "id": 5,
-        "titulo": "Rihanna - Umbrella (Orange Version) (Official Music Video) ft. JAY-Z",
-        "categoria": "Pop",
-        "imagen":"https://static.posters.cz/image/750webp/2760.webp",
-        "video": "https://www.youtube.com/watch?v=CvBfHwUxHIk",
-        "descripcion": "Watch the official video of Umbrella by Rihanna "
+        "titulo": "¿Qué son las Soft Skills?",
+        "categoria": "Innovación y gestión",
+        "imagen":"",
+        "video": "https://www.youtube.com/watch?v=vhwspfvI52k",
+        "descripcion": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día."
     },
     {
         "id": 6,
-        "titulo": "Rihanna - Work (Explicit) ft. Drake",
-        "categoria": "Pop",
-        "imagen":"https://www.lahiguera.net/musicalia/artistas/rihanna/disco/6804/portada-m.jpg",
-        "video": "https://www.youtube.com/watch?v=HL1UzIK-flA",
-        "descripcion": "Watch the official video for Work by Rihanna ft. Drake "
+        "titulo": "7 Soft Skills más deseadas por las empresas",
+        "categoria": "Innovación y gestión",
+        "imagen":"",
+        "video": "https://www.youtube.com/watch?v=YhR7Zp8NUzE",
+        "descripcion": "Seguro que ya escuchaste hablar sobre las Soft Skills, pero ¿sabes cuáles son las 7 más buscadas por las empresas? Quédate en este video con nosotros que vamos a explicarte la importancia de estas habilidades y porque son tan requeridas en el mercado laboral."
     }
 ]
 }
