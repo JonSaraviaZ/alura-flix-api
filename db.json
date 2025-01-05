@@ -3,23 +3,23 @@
         "id": 1,
         "titulo": "Cuándo usar let, var y const?",
         "categoria": "Front End",
-        "imagen":"",
-        "video": "https://youtu.be/PztCEdIJITY?si=nCCKgBsjN4whSgvt",
+        "imagen":"https://img.youtube.com/vi/PztCEdIJITY/maxresdefault.jpg",
+        "video": "https://www.youtube.com/embed/PztCEdIJITY",
         "descripcion": "¿A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript."
     },
     {
         "id": 2,
         "titulo": "¿Qué es JavaScript?",
         "categoria": "Front End",
-        "imagen":"",
-        "video": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
+        "imagen":"https://img.youtube.com/vi/GJfOSoaXk4s/maxresdefault.jpg",
+        "video": "https://www.youtube.com/embed/GJfOSoaXk4s",
         "descripcion": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips."
     },
     {
         "id": 3,
         "titulo": "Spring Framework. ¿Qué es ?",
         "categoria": "Back End",
-        "imagen":"",
+        "imagen":"https://img.youtube.com/vi/t-iqt1b2qqk/maxresdefault.jpg",
         "video": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
         "descripcion": "¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java. Nos ofrece herramientas que nos permiten crear proyectos más avanzados, con mejores prácticas y en menor tiempo. También posee una gran comunidad, lo que nos brinda muchísima documentación y ayuda."
     },
@@ -27,7 +27,7 @@
         "id": 4,
         "titulo": "¿Qué es SQL y NoSQL?",
         "categoria": "Back End",
-        "imagen":"",
+        "imagen":"https://img.youtube.com/vi/cLLKVd5CNLc/maxresdefault.jpg",
         "video": "https://www.youtube.com/watch?v=cLLKVd5CNLc",
         "descripcion": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo."
     },
@@ -35,7 +35,7 @@
         "id": 5,
         "titulo": "¿Qué son las Soft Skills?",
         "categoria": "Innovación y gestión",
-        "imagen":"",
+        "imagen":"https://img.youtube.com/vi/vhwspfvI52k/maxresdefault.jpg",
         "video": "https://www.youtube.com/watch?v=vhwspfvI52k",
         "descripcion": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día."
     },
@@ -43,7 +43,7 @@
         "id": 6,
         "titulo": "7 Soft Skills más deseadas por las empresas",
         "categoria": "Innovación y gestión",
-        "imagen":"",
+        "imagen":"https://img.youtube.com/vi/YhR7Zp8NUzE/maxresdefault.jpg",
         "video": "https://www.youtube.com/watch?v=YhR7Zp8NUzE",
         "descripcion": "Seguro que ya escuchaste hablar sobre las Soft Skills, pero ¿sabes cuáles son las 7 más buscadas por las empresas? Quédate en este video con nosotros que vamos a explicarte la importancia de estas habilidades y porque son tan requeridas en el mercado laboral."
     }
